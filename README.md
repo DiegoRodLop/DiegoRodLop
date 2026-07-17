@@ -22,15 +22,6 @@ Desarrollador Web enfocado en construir aplicaciones modernas y eficientes. Me a
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoRodLop&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Diego" height="135px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRodLop&layout=compact&theme=tokyonight" alt="Idiomas más usados" height="135px" />
-</p>
-
----
-
 ### 📬 Conéctate conmigo
 * 💼 **LinkedIn:** [in/diego-rodriguez-2795ba410](https://linkedin.com/in/diego-rodriguez-2795ba410)
 * ✉️ **Email:** [drl.desarrollador@gmail.com](mailto:drl.desarrollador@gmail.com)
